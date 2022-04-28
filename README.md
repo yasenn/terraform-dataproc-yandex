@@ -1,6 +1,6 @@
 # Terraform DataProc for Yandex Cloud
 
-Terraform DataProc for Yandex Cloud installs [Yandex Data Proc ](https://cloud.yandex.ru/docs/data-proc/) cluster.
+Terraform for [Yandex Data Proc ](https://cloud.yandex.ru/docs/data-proc/) managed cluster.
 
 
 ## Features
