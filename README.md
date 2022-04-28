@@ -45,7 +45,7 @@ To deploy this project run
 
 ## Related
 
-Examples of cloud-agnostic infrastructure as code tools include Yandex Cloud, Terraform and Ansible: [patsevanton/infrastructure-as-a-code-example](https://github.com/patsevanton/infrastructure-as-a-code-example)
+Examples of cloud-agnostic infrastructure as code tools include Yandex Cloud, Terraform and Ansible: [patsevanton/infrastructure-as-a-code-example](https://github.com/patsevanton/infrastructure-as-a-code-example) by [@patsevanton](https://github.com/patsevanton)
 
 ## Contributing
 
